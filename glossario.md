@@ -51,3 +51,5 @@ Di seguito il glossario compilato lezione-per-lezione del corso di SWE (Ingegner
         - che conosce, usa ed evolve le best practice di dominio;
     - **Disciplinato**: segue le regole che si è dato;
     - **Quantificabile**: permette di misurare l'efficienza e l'efficacia del suo agire;
+
+- **Committente**: chi ordina qualcosa, vaglia le proposte e le espone ai *fornitori*
