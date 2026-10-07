@@ -52,4 +52,32 @@ Di seguito il glossario compilato lezione-per-lezione del corso di SWE (Ingegner
     - **Disciplinato**: segue le regole che si è dato;
     - **Quantificabile**: permette di misurare l'efficienza e l'efficacia del suo agire;
 
-- **Committente**: chi ordina qualcosa, vaglia le proposte e le espone ai *fornitori*
+## T2
+
+- **Committente**: chi ordina qualcosa, vaglia le proposte e le espone ai *fornitori*;
+
+- **Controllo di configurazione**: ci dice come si fa a comporre il prodotto a partire dalle sue parti;
+
+- **Controllo di versione**: quali specifiche parti della loro storia individuale ci interessa (es. l'ultima versione, quella precedente, ecc..);
+
+- **Ciclo di vita del SW**: gli stati che il prodotto SW assume tra concepimento e ritiro in conseguenza delle attività svolte su di esso;
+
+- **Pocessi di ciclo di vita**: raggruppano e codificano le attività da svolgere per effettuare corrette transizioni di stato nel ciclo di vvita di un prodotto SW;
+
+- **Modelli di ciclo di vita**: descrivono quali stati e quali transizioni privilegiare in un ciclo di vita e quindi quali processi attivare in esso:
+    - aderire a un modello di ciclo di vita consente di determinare quali processi serva attuare;
+    - e quindi pianificare, organizzare, eseguire e controllare lo svolgimento delle corrispondenti attività;
+
+- **Processo**: insieme di attività **correlate** e **coese** che trasformano ingressi (bisogni) in uscite (prodotti) secondo regole date consumando risorse nel farlo;
+
+- **Efficiente**: insieme di attività fatte senza spreso di risorse;
+
+- **Efficace**: insieme di attività che raggiungono gli obbiettivi attesi;
+
+- **Produttività**: rapporto tra quantità di prodotto realizzato e risorse utilizzate;
+
+- **Economicità**: l'insieme di efficienza ed efficacia;
+
+- **Sistema di qualità**:
+    - **Maturità**: qualità misurata delle prestazioni;
+    - **Conformità**: adesione alle aspettative e agli obblighi;
