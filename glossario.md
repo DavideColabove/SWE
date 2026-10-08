@@ -81,3 +81,19 @@ Di seguito il glossario compilato lezione-per-lezione del corso di SWE (Ingegner
 - **Sistema di qualità**:
     - **Maturità**: qualità misurata delle prestazioni;
     - **Conformità**: adesione alle aspettative e agli obblighi;
+
+## T3
+
+- **Fase**: "fase" designa un segmento temporale contiguo con caratteristiche coerenti;
+
+- **Modello**: un insieme di specifiche che descrivono un fenomeno di interesse (astratto/concreto) in modo oggettivo, non dipendente dall'osservatore e dimostrato corretto empiricamente o per teorema;
+
+- **Iterazione**: procedere per raffinamenti o rivistazione (pittura), potenzialmente distruttivo;
+
+- **Incremento**: procedere per aggiunte successive a un impianto base (scultura), solo costruttivo;
+
+- **Prototipo**: per provare e scegliere soluzioni, usa e getta o per incrementi
+
+- **Riuso**:
+    - *Copia-incolla opportunistico* (occasionale: basso costo e scarso impatto);
+    - *Sistematico* (per progetto / famiglia di prodotti) con maggior costo e maggior impatto;
