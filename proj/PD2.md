@@ -18,6 +18,8 @@ Un aggionramneto di preventivo residuo ad ogni fine periodo che prende il nome *
 - retrospettiva di periodo come migliorare in futuro;
 - Revisione calendario rimanente e aggiornamento stima dei costi finali;
 
+![project_plan](../img/project_plan.png)
+
 ## Piano di qualifica 
 
 Specifica degli obiettivi quantitativi di qualità di prodotto e di processo (*way of working*)
@@ -52,9 +54,25 @@ Le due fasi di revisioni sono le seguenti:
             - Esame del grado di raggiungimento obiettivi funzionali e di qualità;
             - Solo dopo "semaforo verde" al passo precedente;
 
+Riporto di seguito lo scadenziario del progetto:
+
+![project_deadlines](../img/project_deadlines.png)
+
 ### POC, MVP e Specifica Tecnica
-- **POC** (Proof of concept): artefatto usa-e-getta non strutturato che dimostra l'utilizzo di una tecnologia (nel caso del PD, che non conosciamo!);
-- **MVP** (Minimum Viable Product): un primo prototipo funzionante del software (strutturato) che "funziona" per i campi richiesti dai requisiti;
+- **POC** (Proof of concept): 
+    - realizzato a inizio progetto, è un artefatto usa-e-getta sul piano architetturale;
+    - serve a valutare la *fattibilità tecnologica* del prodotto atteso rispetto a specifici sottoinsieme di funzionalità individuate con il proponente;
+    - *baseline* tecnologica e non architetturale;
+    - aiuta a consolidare l'analisi dei requisiti dal lato della soluzione;
+
+- **MVP** (Minimum Viable Product): 
+    - approssima da vicino il prodotto atteso senza essere finale e definitivo;
+    - dotato di funzionalità sufficienti per:
+        - valutare la bontà della visione iniziale di prodotto;
+        - consentire agevole uso esplorativo;
+        - prendere decisioni ben fondate per il completamento definitivo del prodotto;
+    - offre "the *maximum* amount of *validated learning* about customers' needs with the *least* amount of effort";
+
 - **Specifica Tecnica**:
     - l'architettura logica del prodotto, per componenti, ruoli, connessioni e interazioni;
     - l'architettura di *deployment*, cioè l'allocazione delle componenti architetturali nel sistema di esecuzione;
@@ -62,13 +80,45 @@ Le due fasi di revisioni sono le seguenti:
     - gli *idiomi* (pattern di livello più basso che architetturale) eventualmente utilizzati;
     - ogni altro aspetto progettuale che valorizzi o caratterizzi il vostro *design*;
 
-
-## Scadenziario di progetto
-
 ## Obblighi
 
 ### Obblighi documentali
 
+Rientrano negli obblighi documentali:
+1. Documenti gestionali esterni, aggiornati ad ogni periodo:
+    - Piano di progetto;
+    - Piano di qualifica;
+2. Documenti gestionali interni:
+    - Norme di progetto;
+    - **Verbali**: breve rendiconto di riunini ufficiali (agenda, decisioni, azioni);
+    - **Glossario**: spiega ogni termine specializzato del dominio di progetto;
+3. Documenti tecnici esterni:
+    - Analisi dei Requisiti;
+    - Specifica Architetturale;
+    - Manuale Utente;
+
+Tutti devono essere posti in *repo* sotto controllo di versione, ogni documento con suo proprio **Registro delle Modifiche**.
+
 ### Obblighi procedurali
 
+Tra gli obblighi procedurali rientra l'attività di relazionare sulla "situazione di gruppo" agli eventi **diario di bordo** secondo il calendario.
+
+Candidarsi esplicitamente alle revisioni di avanzamento:
+- quando il progresso effettivo soddisfa le ates della corrispondente *milestone*;
+- esporre puntatotre a sezione repo dedicata alla revisione, includendovi una **Lettera di Presentazione** che elenca i contenuti della consegna e descrive brevemente lo stato di avanzamento.
+
+La candidatura va fatta per posta elettronica *senza* invio di allegati!
+
 ### Obblighi operativi
+
+Ogni gruppo deve dotarsi di:
+- Nome;
+- Logo;
+- Riflettore di posta elettronica;
+- Repo:
+    - Software;
+    - Documentale;
+
+Ogni componente di gruppo fornitore deve ruotare su tutti i ruoli secondo regole documentate (time-based(?), task-based(?)), assumere ogni ruolo per un tempo totale congruo (equo(?)) e assumere NON più di un ruolo alla volta.
+
+Le regole di rotazione devono assicurare assenza di conflitto di interessi garantendo verifica indipendente per ogni attività.

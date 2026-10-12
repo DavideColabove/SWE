@@ -97,3 +97,30 @@ Di seguito il glossario compilato lezione-per-lezione del corso di SWE (Ingegner
 - **Riuso**:
     - *Copia-incolla opportunistico* (occasionale: basso costo e scarso impatto);
     - *Sistematico* (per progetto / famiglia di prodotti) con maggior costo e maggior impatto;
+
+## PD2
+
+- **POC** (Proof of concept): 
+    - realizzato a inizio progetto, è un artefatto usa-e-getta sul piano architetturale;
+    - serve a valutare la *fattibilità tecnologica* del prodotto atteso rispetto a specifici sottoinsieme di funzionalità individuate con il proponente;
+    - *baseline* tecnologica e non architetturale;
+    - aiuta a consolidare l'analisi dei requisiti dal lato della soluzione;
+
+- **MVP** (Minimum Viable Product): 
+    - approssima da vicino il prodotto atteso senza essere finale e definitivo;
+    - dotato di funzionalità sufficienti per:
+        - valutare la bontà della visione iniziale di prodotto;
+        - consentire agevole uso esplorativo;
+        - prendere decisioni ben fondate per il completamento definitivo del prodotto;
+    - offre "the *maximum* amount of *validated learning* about customers' needs with the *least* amount of effort";
+
+- **Specifica Tecnica**:
+    - l'architettura logica del prodotto, per componenti, ruoli, connessioni e interazioni;
+    - l'architettura di *deployment*, cioè l'allocazione delle componenti architetturali nel sistema di esecuzione;
+    - i *design pattern* architetturali utilizzati, e quelli determinati dalle tecnologie adottate;
+    - gli *idiomi* (pattern di livello più basso che architetturale) eventualmente utilizzati;
+    - ogni altro aspetto progettuale che valorizzi o caratterizzi il vostro *design*;
+
+- **Verbali**: breve rendiconto di riunini ufficiali (agenda, decisioni, azioni);
+
+- **Glossario**: spiega ogni termine specializzato del dominio di progetto;
