@@ -1,6 +1,6 @@
 # Glossario tecnico ordinato per lezioni
 
-Di seguito il glossario compilato lezione-per-lezione del corso di SWE (Ingegneria del Software) suddiviso per lezioni 
+Di seguito il glossario redatto lezione-per-lezione del corso di SWE (Ingegneria del Software) suddiviso per lezioni.
 
 ## T1
 
