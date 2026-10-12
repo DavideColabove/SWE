@@ -12,8 +12,9 @@ This repository serves as a complete archive of my coursework for the **Software
 
 ## 📂 Repository Structure
 - `notes/`: Personal study notes, summaries, and exam preparation materials.
-- `lectures/`: Slides, assignments, and reference documents provided during the course.
-- `project/`: The complete source code and documentation for the final project.
+- `exported/`: Every .md exported in .pdf for easier readability.
+- `proj/`: Complete documentation and constrains for the final project.
+- `img/`: Assets collection.
 
 ## 💻 The Final Project
 
