@@ -38,3 +38,4 @@ Appena costituito, ogni gruppo fornitore si dota di un *Way of Working*:
 - **Cruscotto di valutazione della qualità**: misura il grado di raggiungimento dei risultati attesi a quel punto;
 
 Il way of working deve migliorare nel tempo se possibile *Just-In-Time* a intervalli brevi, normando le attività prima di attuarle;
+
