@@ -1,4 +1,4 @@
-# Regolamento del progetto 
+# PD1: Regolamento del progetto 
 
 ### Componenti 
 10 **proponenti** (aziende) ciascuno dei quali propone il proprio **capitolato** che presenta aspettative, vincoli e suggerimenti;

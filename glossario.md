@@ -124,3 +124,13 @@ Di seguito il glossario redatto lezione-per-lezione del corso di SWE (Ingegneria
 - **Verbali**: breve rendiconto di riunini ufficiali (agenda, decisioni, azioni);
 
 - **Glossario**: spiega ogni termine specializzato del dominio di progetto;
+
+## T4
+
+- **Qualità**: ha più dimensioni:
+    - riguarda i prodotti e i processi;
+    - interessa sia il committente che la direzione aziendale;
+
+- **Cammino critico**: sequenza di attvità ordinata con prodotto importante e dipendenze temporale strette, cio' implica il *massimo rischio*;
+
+- **Milestones**: punto del calendario che sia significativo per la pianificazione;
