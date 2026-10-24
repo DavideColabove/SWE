@@ -134,3 +134,15 @@ Di seguito il glossario redatto lezione-per-lezione del corso di SWE (Ingegneria
 - **Cammino critico**: sequenza di attvità ordinata con prodotto importante e dipendenze temporale strette, cio' implica il *massimo rischio*;
 
 - **Milestones**: punto del calendario che sia significativo per la pianificazione;
+
+
+## T5
+
+- **Capitolato d'appalto**: determina i "requsiti utente";
+
+- **Studio di fattibilità**: fissan le implicazioni di interesse, di costo e di qualità in un documento;
+
+- **Requisito**:
+    - *Bisogno*: capacità necessaria a un utente per risolvere un problema o raggiungere un obiettivo;
+    - *Soluzione*: capacità che deve esere posseduta (o condizione che deve essere soddisfatta) da un sistema per adempiere ad un obbligo;
+    - Descrizione documentata di una capacità interpretata come in 1. o 2.;
